@@ -17,7 +17,9 @@
             ?>    
         </p>          
        <!-- Code à tester à insérer ci-dessous -->
-        <p>  
+        <p> 
+            Cette ligne 2 test est écrite en html (dur)
+            
         </p>
         
         
